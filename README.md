@@ -81,7 +81,7 @@ In examples above the network was retrained on the image in the left column (mar
 &ensp; *training image* &emsp; &emsp; &emsp; &ensp; clean &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &ensp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-PSNR = 27.05dB &emsp; PSNR = 26.44dB &emsp; PSNR = 28.04dB
+PSNR = 27.05dB &ensp; PSNR = 26.44dB &ensp; PSNR = 28.04dB
 
 <img src="Figures/pictures/adaptation_jpg/train_english_rect.jpg" width="130px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/noisy_english.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english.jpg" width="130px"/> 
@@ -92,7 +92,7 @@ PSNR = 27.05dB &emsp; PSNR = 26.44dB &emsp; PSNR = 28.04dB
 &ensp; *training image* &emsp; &emsp; &emsp; &ensp; clean &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &ensp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-PSNR = 23.33dB &emsp; PSNR = 22.52dB &emsp; PSNR = 26.78dB
+PSNR = 23.33dB &ensp; PSNR = 22.52dB &ensp; PSNR = 26.78dB
 
 ## Internal Adaptation Results
 
