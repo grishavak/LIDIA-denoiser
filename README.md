@@ -123,8 +123,8 @@ indicating that this procedure, in the context of being deployed on a lightweigh
 <img src="Figures/pictures/adaptation_jpg/clean_brick_house_zoom.jpg" width="160px"/> <img src="Figures/pictures/adaptation_jpg/noisy_brick_house_zoom.jpg" width="160px"/> 
 <img src="Figures/pictures/adaptation_jpg/dncnn_brick_house_zoom.jpg" width="160px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d1_brick_house_zoom.jpg" width="160px"/> 
 <img src="Figures/pictures/adaptation_jpg/nlms_d2_brick_house_zoom.jpg" width="160px"/>  
-&emsp; &emsp; &ensp; clean &emsp; &emsp; &emsp; &emsp; &ensp; noisy with &sigma; = 50 &emsp; &emsp; &emsp; &emsp; DnCNN 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &emsp; &emsp; &ensp; adaptation 
+&emsp; &emsp; &ensp; clean &emsp; &emsp; &emsp; &emsp; &ensp; noisy with &sigma; = 50 &emsp; &emsp; &emsp; &ensp; DnCNN 
+&emsp; &emsp; &emsp; &emsp; &emsp; &ensp; LIDIA (ours) &emsp; &emsp; &emsp; &emspn; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
 PSNR = 28.64dB &emsp; &emsp; &emsp; &nbsp; PSNR = 28.77dB &emsp; &emsp; &emsp; PSNR = 29.28dB
 
