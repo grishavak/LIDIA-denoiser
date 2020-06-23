@@ -74,7 +74,7 @@ In examples above the network was retrained on the image in the left column (mar
 
 <img src="Figures/pictures/adaptation_jpg/train_m36_rect.jpg" width="130px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_m36.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/noisy_m36.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_m36.jpg" width="130px"/> 
-<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36.jpg" width="130px"/> 
+<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36.jpg" width="130px"/>  
 <img src="Figures/pictures/adaptation_jpg/train_m36_zoom.jpg" width="130px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_m36_zoom.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/noisy_m36_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_m36_zoom.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/nlms_d1_m36_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36_zoom.jpg" width="130px"/>  
@@ -85,7 +85,7 @@ In examples above the network was retrained on the image in the left column (mar
 
 <img src="Figures/pictures/adaptation_jpg/train_english_rect.jpg" width="130px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/noisy_english.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english.jpg" width="130px"/> 
-<img src="Figures/pictures/adaptation_jpg/nlms_d1_english.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english.jpg" width="130px"/> 
+<img src="Figures/pictures/adaptation_jpg/nlms_d1_english.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english.jpg" width="130px"/>  
 <img src="Figures/pictures/adaptation_jpg/train_english_zoom.jpg" width="130px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english_zoom.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/noisy_english_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english_zoom.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/nlms_d1_english_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english_zoom.jpg" width="130px"/>  
