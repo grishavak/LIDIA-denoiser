@@ -72,23 +72,23 @@ denoising results are boosted dramatically, surpassing known supervised deep-den
 The external adaptation is useful when the input image deviates from the statistics of the training images.
 In examples above the network was retrained on the image in the left column (marked as *training image*)
 
-<img src="Figures/pictures/adaptation_jpg/train_m36_rect.jpg" width="146px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_m36.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/noisy_m36.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_m36.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/train_m36_zoom.jpg" width="146px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_m36_zoom.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/noisy_m36_zoom.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_m36_zoom.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36_zoom.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36_zoom.jpg" width="146px"/>  
+<img src="Figures/pictures/adaptation_jpg/train_m36_rect.jpg" width="135px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_m36.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/noisy_m36.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_m36.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/train_m36_zoom.jpg" width="135px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_m36_zoom.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/noisy_m36_zoom.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_m36_zoom.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36_zoom.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36_zoom.jpg" width="135px"/>  
 &emsp; *training image* &emsp; &emsp; &emsp; &emsp; clean &emsp; &emsp; &emsp; &ensp; noisy with &sigma; = 50 &emsp; &emsp; &ensp; DnCNN 
 &emsp; &emsp; &emsp; &emsp; &nbsp; LIDIA (ours) &emsp; &emsp; &emsp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 &ensp; PSNR = 27.05dB &emsp; &ensp; PSNR = 26.44dB &emsp; &ensp; PSNR = 28.04dB
 
-<img src="Figures/pictures/adaptation_jpg/train_english_rect.jpg" width="146px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/noisy_english.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/nlms_d1_english.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/train_english_zoom.jpg" width="146px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english_zoom.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/noisy_english_zoom.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english_zoom.jpg" width="146px"/> 
-<img src="Figures/pictures/adaptation_jpg/nlms_d1_english_zoom.jpg" width="146px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english_zoom.jpg" width="146px"/>  
+<img src="Figures/pictures/adaptation_jpg/train_english_rect.jpg" width="135px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/noisy_english.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/nlms_d1_english.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/train_english_zoom.jpg" width="135px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english_zoom.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/noisy_english_zoom.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english_zoom.jpg" width="135px"/> 
+<img src="Figures/pictures/adaptation_jpg/nlms_d1_english_zoom.jpg" width="135px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english_zoom.jpg" width="135px"/>  
 &emsp; *training image* &emsp; &emsp; &emsp; &emsp; clean &emsp; &emsp; &emsp; &ensp; noisy with &sigma; = 50 &emsp; &emsp; &ensp; DnCNN 
 &emsp; &emsp; &emsp; &emsp; &nbsp; LIDIA (ours) &emsp; &emsp; &emsp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
