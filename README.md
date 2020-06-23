@@ -54,7 +54,7 @@ Best PSNR marked in **bold**.
 <img src="Figures/pictures/denoising_jpg/nlnet119082_zoom_sig50.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_zoom_sig50.jpg" width="135px"/>  
 &emsp; &emsp; clean &emsp; &emsp; &emsp; noisy with &sigma; = 50 &emsp; &emsp; &ensp; BM3D &emsp; &emsp; &emsp; &emsp; &nbsp; DnCNN 
 &emsp; &emsp; &emsp; &emsp; &nbsp; NLNet &emsp; &emsp; &emsp; &nbsp; LIDIA (ours) 
-<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;
+<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
 PSNR = 26.98dB &emsp; PSNR = 27.81dB &emsp; PSNR = 27.41dB &emsp; PSNR = 27.79dB
 
 # Instant Adaptation
