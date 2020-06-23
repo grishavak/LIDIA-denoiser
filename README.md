@@ -92,7 +92,7 @@ In examples above the network was retrained on the image in the left column (mar
 &ensp; *training image* &emsp; &emsp; &emsp; &ensp; clean &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &ensp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
-&nbsp; PSNR = 23.33dB &ensp; &nbsp;  PSNR = 22.52dB &ensp; &nbsp; PSNR = 26.78dB
+&nbsp; PSNR = 23.33dB &ensp; PSNR = 22.52dB &ensp; &nbsp; PSNR = 26.78dB
 
 ## Internal Adaptation Results
 
