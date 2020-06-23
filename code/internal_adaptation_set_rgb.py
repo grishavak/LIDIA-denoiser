@@ -43,7 +43,7 @@ def parse_input():
     return opt
 
 
-def internal_adaptation_set_bw_func():
+def internal_adaptation_set_rgb_func():
     arch_opt = ArchitectureOptions(rgb=True, small_network=False)
     opt = parse_input()
     sys.stdout = Logger('output/log.txt')
@@ -61,7 +61,6 @@ def internal_adaptation_set_bw_func():
     state_file_name0 = 'models/model_state_sigma_{}_c.pt'.format(opt.sigma)
     assert os.path.isfile(state_file_name0)
     model_state0 = torch.load(state_file_name0)
-    nl_denoiser.patch_denoise_net.load_state_dict(model_state0['state_dict'])
 
     axs = None
     if opt.plot:
@@ -72,6 +71,7 @@ def internal_adaptation_set_bw_func():
     avg_psnr1 = 0
     avg_psnr2 = 0
     for im_name in image_names:
+        nl_denoiser.patch_denoise_net.load_state_dict(model_state0['state_dict'])
         test_image_c = load_image_from_file(opt.in_path + im_name)
         test_image_n = add_noise_to_image(test_image_c, opt.sigma)
         test_image_dn1 = process_image(nl_denoiser, test_image_n.to(device), opt.max_chunk)
@@ -135,4 +135,4 @@ def internal_adaptation_set_bw_func():
 
 
 if __name__ == '__main__':
-    internal_adaptation_set_bw_func()
+    internal_adaptation_set_rgb_func()
