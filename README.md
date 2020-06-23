@@ -435,7 +435,7 @@ python code/internal_adaptation_bw.py --in_path <in_path> --out_path <out_path> 
 
 #### Parameters
 
-- **in_path** - path to the test image. Default: *images/brick_house/gray/test1_bw.png*
+- **in_path** - path to the test image. Default: = *images/brick_house/gray/test1_bw.png*
 - **out_path** - path to the output image. Default: *output/*
 - **sigma** - noise sigma: {*15*, *25*, *50*}. Default: *50*
 - **[--cuda_retrain]** (optional) - use GPU in the retraining stage
