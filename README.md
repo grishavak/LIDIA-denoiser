@@ -126,7 +126,7 @@ indicating that this procedure, in the context of being deployed on a lightweigh
 &emsp; &emsp; &ensp; clean &emsp; &emsp; &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &emsp; &ensp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; 
-PSNR = 28.64dB &emsp; &ensp; PSNR = 28.77dB &emsp; &ensp; PSNR = 29.28dB
+PSNR = 28.64dB &emsp; &emsp; PSNR = 28.77dB &emsp; &emsp; PSNR = 29.28dB
 
 ### Citation
 If you use this code for your research, please cite our paper:
