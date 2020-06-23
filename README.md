@@ -6,8 +6,8 @@
 ## Image denoising with *adaptation*
 LIDIA is a lightweigh denoising network that can adapt itself to the input image, for example:  
 
-<img src="Figures/pictures/adaptation_jpg/clean_m36_zoom.jpg" width="215px"/> <img src="Figures/pictures/adaptation_jpg/noisy_m36_zoom.jpg" width="215px"/> 
-<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36_zoom.jpg" width="215px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36_zoom.jpg" width="215px"/>  
+<img src="Figures/pictures/adaptation_jpg/clean_m36_zoom.jpg" width="200px"/> <img src="Figures/pictures/adaptation_jpg/noisy_m36_zoom.jpg" width="200px"/> 
+<img src="Figures/pictures/adaptation_jpg/nlms_d1_m36_zoom.jpg" width="200px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36_zoom.jpg" width="200px"/>  
 &emsp; clean astronomical image &emsp; &emsp; &emsp; &ensp; noisy with &sigma; = 50 
 &emsp; &emsp; &emsp; &ensp; denoised, PSNR = 24.33dB &emsp; &ensp; adaptation, PSNR = 26.25dB
 
