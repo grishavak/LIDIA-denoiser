@@ -80,7 +80,7 @@ In examples above the network was retrained on the image in the left column (mar
 <img src="Figures/pictures/adaptation_jpg/nlms_d1_m36_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36_zoom.jpg" width="130px"/>  
 &ensp; *training image* &emsp; &emsp; &emsp; &ensp; clean &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &ensp; adaptation 
-<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
 PSNR = 27.05dB &ensp; PSNR = 26.44dB &ensp; PSNR = 28.04dB
 
 <img src="Figures/pictures/adaptation_jpg/train_english_rect.jpg" width="130px"/> &ensp; <img src="Figures/pictures/adaptation_jpg/clean_english.jpg" width="130px"/> 
@@ -91,7 +91,7 @@ PSNR = 27.05dB &ensp; PSNR = 26.44dB &ensp; PSNR = 28.04dB
 <img src="Figures/pictures/adaptation_jpg/nlms_d1_english_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english_zoom.jpg" width="130px"/>  
 &ensp; *training image* &emsp; &emsp; &emsp; &ensp; clean &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &ensp; adaptation 
-<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
 PSNR = 23.33dB &ensp; PSNR = 22.52dB &ensp; PSNR = 26.78dB
 
 ## Internal Adaptation Results
