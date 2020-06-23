@@ -125,8 +125,8 @@ indicating that this procedure, in the context of being deployed on a lightweigh
 <img src="Figures/pictures/adaptation_jpg/nlms_d2_brick_house_zoom.jpg" width="160px"/>  
 &emsp; &emsp; &ensp; clean &emsp; &emsp; &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &emsp; &ensp; adaptation 
-<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
-PSNR = 28.64dB &emsp; &emsp; &nbsp; PSNR = 28.77dB &emsp; &emsp; PSNR = 29.28dB
+<br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
+PSNR = 28.64dB &emsp; &nbsp; PSNR = 28.77dB &emsp; PSNR = 29.28dB
 
 ### Citation
 If you use this code for your research, please cite our paper:
