@@ -46,12 +46,12 @@ Best PSNR marked in **bold**.
 
 ### Some Qualitative Results
 
-<img src="Figures/pictures/denoising_jpg/clean119082.jpg" width="148px"/> <img src="Figures/pictures/denoising_jpg/noisy119082_sig50.jpg" width="148px"/> 
-<img src="Figures/pictures/denoising_jpg/bm3d119082_sig50.jpg" width="148px"/> <img src="Figures/pictures/denoising_jpg/dncnn119082_sig50.jpg" width="148px"/> 
-<img src="Figures/pictures/denoising_jpg/nlnet119082_sig50.jpg" width="148px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_sig50.jpg" width="148px"/>
-<img src="Figures/pictures/denoising_jpg/clean119082_zoom.jpg" width="148px"/> <img src="Figures/pictures/denoising_jpg/noisy119082_zoom_sig50.jpg" width="148px"/> 
-<img src="Figures/pictures/denoising_jpg/bm3d119082_zoom_sig50.jpg" width="148px"/> <img src="Figures/pictures/denoising_jpg/dncnn119082_zoom_sig50.jpg" width="148px"/> 
-<img src="Figures/pictures/denoising_jpg/nlnet119082_zoom_sig50.jpg" width="148px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_zoom_sig50.jpg" width="148px"/>  
+<img src="Figures/pictures/denoising_jpg/clean119082.jpg" width="140px"/> <img src="Figures/pictures/denoising_jpg/noisy119082_sig50.jpg" width="140px"/> 
+<img src="Figures/pictures/denoising_jpg/bm3d119082_sig50.jpg" width="140px"/> <img src="Figures/pictures/denoising_jpg/dncnn119082_sig50.jpg" width="140px"/> 
+<img src="Figures/pictures/denoising_jpg/nlnet119082_sig50.jpg" width="140px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_sig50.jpg" width="140px"/>
+<img src="Figures/pictures/denoising_jpg/clean119082_zoom.jpg" width="140px"/> <img src="Figures/pictures/denoising_jpg/noisy119082_zoom_sig50.jpg" width="140px"/> 
+<img src="Figures/pictures/denoising_jpg/bm3d119082_zoom_sig50.jpg" width="140px"/> <img src="Figures/pictures/denoising_jpg/dncnn119082_zoom_sig50.jpg" width="140px"/> 
+<img src="Figures/pictures/denoising_jpg/nlnet119082_zoom_sig50.jpg" width="140px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_zoom_sig50.jpg" width="140px"/>  
 &emsp; &emsp; &ensp; clean &emsp; &emsp; &emsp; &ensp; noisy with &sigma; = 50 &emsp; &emsp; &emsp; BM3D &emsp; &emsp; &emsp; &emsp; &emsp; DnCNN 
 &emsp; &emsp; &emsp; &emsp; &emsp; NLNet &emsp; &emsp; &emsp; &emsp; LIDIA (ours) 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 
