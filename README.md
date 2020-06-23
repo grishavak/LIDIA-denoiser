@@ -46,9 +46,9 @@ Best PSNR marked in **bold**.
 
 ### Some Qualitative Results
 
-<img src="Figures/pictures/denoising_jpg/clean119082.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/noisy119082_sig50.jpg" width="135px"/> 
-<img src="Figures/pictures/denoising_jpg/bm3d119082_sig50.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/dncnn119082_sig50.jpg" width="135px"/> 
-<img src="Figures/pictures/denoising_jpg/nlnet119082_sig50.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_sig50.jpg" width="135px"/>
+<img src="Figures/pictures/denoising_jpg/clean119082.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/noisy119082_sig50.jpg" width="135px"/>  
+<img src="Figures/pictures/denoising_jpg/bm3d119082_sig50.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/dncnn119082_sig50.jpg" width="135px"/>  
+<img src="Figures/pictures/denoising_jpg/nlnet119082_sig50.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_sig50.jpg" width="135px"/>  
 <img src="Figures/pictures/denoising_jpg/clean119082_zoom.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/noisy119082_zoom_sig50.jpg" width="135px"/> 
 <img src="Figures/pictures/denoising_jpg/bm3d119082_zoom_sig50.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/dncnn119082_zoom_sig50.jpg" width="135px"/> 
 <img src="Figures/pictures/denoising_jpg/nlnet119082_zoom_sig50.jpg" width="135px"/> <img src="Figures/pictures/denoising_jpg/nlms119082_zoom_sig50.jpg" width="135px"/>  
