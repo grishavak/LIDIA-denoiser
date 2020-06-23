@@ -79,7 +79,7 @@ In examples above the network was retrained on the image in the left column (mar
 <img src="Figures/pictures/adaptation_jpg/noisy_m36_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_m36_zoom.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/nlms_d1_m36_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_m36_zoom.jpg" width="130px"/>  
 &ensp; *training image* &emsp; &emsp; &emsp; &ensp; clean &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; DnCNN 
-&emsp; &emsp; &emsp; &nbsp; LIDIA (ours) &emsp; &emsp; &emsp; adaptation 
+&emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &ensp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 &ensp; PSNR = 27.05dB &emsp; &ensp; PSNR = 26.44dB &emsp; &ensp; PSNR = 28.04dB
 
@@ -90,7 +90,7 @@ In examples above the network was retrained on the image in the left column (mar
 <img src="Figures/pictures/adaptation_jpg/noisy_english_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/dncnn_english_zoom.jpg" width="130px"/> 
 <img src="Figures/pictures/adaptation_jpg/nlms_d1_english_zoom.jpg" width="130px"/> <img src="Figures/pictures/adaptation_jpg/nlms_d2_english_zoom.jpg" width="130px"/>  
 &ensp; *training image* &emsp; &emsp; &emsp; &ensp; clean &emsp; &emsp; &nbsp; noisy with &sigma; = 50 &emsp; &emsp; DnCNN 
-&emsp; &emsp; &emsp; &nbsp; LIDIA (ours) &emsp; &emsp; &emsp; adaptation 
+&emsp; &emsp; &emsp; LIDIA (ours) &emsp; &emsp; &ensp; adaptation 
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 &ensp; PSNR = 23.33dB &emsp; &ensp; PSNR = 22.52dB &emsp; &ensp; PSNR = 26.78dB
 
