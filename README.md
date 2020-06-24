@@ -128,18 +128,6 @@ indicating that this procedure, in the context of being deployed on a lightweigh
 <br /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; 
 PSNR = 28.64dB &emsp; &emsp; PSNR = 28.77dB &emsp; &emsp; PSNR = 29.28dB
 
-### Citation
-If you use this code for your research, please cite our paper:
-
-```
-@InProceedings{Vaksman_2020_CVPR_Workshops,
-  author = {Vaksman, Gregory and Elad, Michael and Milanfar, Peyman},
-  title = {LIDIA: Lightweight Learned Image Denoising With Instance Adaptation},
-  booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-  month = {June},
-  year = {2020}
-}
-```
 # Code
 
 This code was tested with python 3.8, cuda 10.2 and pytorch 1.5.0 on GeForse GTX 1080 Ti.
@@ -553,5 +541,15 @@ python code/external_adaptation_bw.py --in_path <in_path> --train_path <train_pa
 python code/external_adaptation_bw.py --cuda_retrain --plot
 ```
 
+### Citation
+If you use this code for your research, please cite our paper:
 
-
+```
+@InProceedings{Vaksman_2020_CVPR_Workshops,
+  author = {Vaksman, Gregory and Elad, Michael and Milanfar, Peyman},
+  title = {LIDIA: Lightweight Learned Image Denoising With Instance Adaptation},
+  booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month = {June},
+  year = {2020}
+}
+```
