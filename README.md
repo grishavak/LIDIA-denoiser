@@ -553,3 +553,5 @@ If you use this code for your research, please cite our paper:
   year = {2020}
 }
 ```
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=grishavak/LIDIA-denoiser)
